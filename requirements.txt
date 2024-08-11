@@ -1,1 +1,9 @@
 streamlit
+streamlit
+newspaper3k
+lxml_html_clean
+langchain
+langchain_community
+sentence-transformers
+langchain-huggingface
+faiss-cpu
